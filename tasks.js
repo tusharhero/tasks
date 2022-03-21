@@ -11,7 +11,7 @@ let text = `
 --> Advertisements
 + Spelling practice
 5)English -->
-Basically read every chapter :(
+Basically read every chapter
 `;
 console.log(text);
 let header = document.querySelector("tasks");
