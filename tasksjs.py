@@ -4,7 +4,7 @@ this script will be used to automatically create the task.js in my computer and 
 '''
 import os#this is very important for us to issue commands
 os.system('gittasks')#using another script to get the material into tasks.txt
-tasks = open("tasks.txt",'rt')
+tasks = open("tasks",'rt')
 tasks = tasks.read()
 html = open("html.txt",'rt')
 html = html.read()
