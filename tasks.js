@@ -11,7 +11,8 @@ let text = `
 --> Advertisements
 + Spelling practice
 5)English -->
-Basically read every chapter
+T̶h̶e̶ ̶p̶r̶o̶p̶o̶s̶a̶l̶
++ Modals
 `;
 console.log(text);
 let header = document.querySelector("tasks");
