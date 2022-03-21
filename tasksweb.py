@@ -4,4 +4,4 @@ this script will be used to automatically create the files in my computer and th
 '''
 import os#this is very important for us to issue commands
 os.system(gittasks)#using another script to get the material into tasks.txt
-
+cid = open("unicode.txt",'rt')
