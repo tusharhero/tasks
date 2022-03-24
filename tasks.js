@@ -1,15 +1,13 @@
 let text = `
-03/23/22 Wednesday
-1) IT --> RDMS
+03/24/22 Thursday
+1) English 
+--> Modals
 2) Social --> 
-Outcomes Of Democracy
-3) Science
---> Periodic
- Classification of elements
-4) Maths 
+Nationalism in India
+3) Maths 
 --> Circles
-5) Hindi -->
-DO SOMETHING ATLEAST`;
+4) Hindi -->
+सूचनाओ`;
 console.log(text);
 let header = document.querySelector("tasks");
 header.innerText = text;
