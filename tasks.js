@@ -11,7 +11,9 @@ Nationalism in India
 4) Hindi -->
 सूचनाओ
 +Read big story hehe
-`;
+Homeworks:
+1) IT CW
+2)SELF ASSESSMENT PAPER Social`;
 console.log(text);
 let header = document.querySelector("tasks");
 header.innerText = text;
