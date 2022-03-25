@@ -1,7 +1,7 @@
 let text = `
-03/24/22 Thursday
+03/25/22 Friday
 1) English 
---> Determiners
+--> Modals
 2) Social --> 
 Nationalism in India
 3) Maths 
