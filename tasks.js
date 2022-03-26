@@ -1,8 +1,9 @@
 let text = `
-03/25/22 Friday
+03/26/22 Saturday
 1) English 
 --> Modals
 + Determiner
++ necklace
 2) Social --> 
 Nationalism in India
 + Outcomes of Democracy
@@ -10,10 +11,7 @@ Nationalism in India
 --> Circles
 4) Hindi -->
 सूचनाओ
-+Read big story hehe
-Homeworks:
-1) IT CW
-2)SELF ASSESSMENT PAPER Social`;
++Read big story hehe`;
 console.log(text);
 let header = document.querySelector("tasks");
 header.innerText = text;
