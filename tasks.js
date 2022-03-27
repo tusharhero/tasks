@@ -1,9 +1,9 @@
 let text = `
-03/26/22 Saturday
+03/27/22 Sunday
 1) English 
 --> Modals
 + Determiner
-+ necklace
++ n̶e̶c̶k̶l̶a̶c̶e̶
 2) Social --> 
 Nationalism in India
 + Outcomes of Democracy
