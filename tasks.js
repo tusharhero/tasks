@@ -1,5 +1,6 @@
 let text = `
 03/28/22 Monday
+03/28/22 Monday
 1) English 
 --> Modals(watch video + )
 + Determiner(watch the video)
