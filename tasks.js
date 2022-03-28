@@ -1,14 +1,18 @@
 let text = `
-03/27/22 Sunday
+03/28/22 Monday
 1) English 
---> Modals
-+ Determiner
+--> Modals(watch video + )
++ Determiner(watch the video)
 + n̶e̶c̶k̶l̶a̶c̶e̶
 2) Social --> 
 Nationalism in India
+(Reading + dates database)
 + Outcomes of Democracy
+(QnA write)
++ Geography first lesson(study)
 3) Maths 
---> Circles
+--> Circles if bored
++ Applications of trignometry
 4) Hindi -->
 सूचनाओ
 +Read big story hehe`;
